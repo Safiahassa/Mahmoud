@@ -8,4 +8,7 @@ public class Main {
     System.out.println("Name: " + myObj.fname + " " + myObj.lname);
     System.out.println("Age: " + myObj.age);
   }
-nm,n,ms hello}
+snm,n,ms hello} 
+hello
+how are you doing
+this is more fun
